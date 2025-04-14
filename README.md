@@ -1,6 +1,6 @@
-# flutter_projects
+# ticket_app
 
-A new Flutter project.
+ticketapp
 
 ## Getting Started
 
